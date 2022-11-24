@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f767cb7f-0c84-4f98-b026-d46a34a18190/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/supcFlowizeWS",
+    "appService.deploySubpath": "."
+}
